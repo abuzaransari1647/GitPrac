@@ -1,3 +1,3 @@
 # GitPrac
 This is for Git Practice Only
-This line is modified
+This is the first modification
